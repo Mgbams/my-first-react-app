@@ -1,0 +1,9 @@
+.title {
+  text-align: center;
+}
+.title.red {
+  color: red;
+}
+.title.blue {
+  color: blue;
+}
